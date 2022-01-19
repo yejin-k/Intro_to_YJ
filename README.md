@@ -1,5 +1,4 @@
 # Intro_to_YJ
-Introduce myself
 
 Hello,
 my name is Yejin Kim.
