@@ -15,3 +15,5 @@ Contact Info
 mail: yejincode@gmail.com
 
 Blog: yejin-k.github.io
+
+LinkedIn: www.linkedin.com/in/yejin-kim-code
