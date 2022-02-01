@@ -12,6 +12,8 @@ Welcome to my github!
 
 Contact Info
 
+Pronounce: She/Her
+
 mail: yejincode@gmail.com
 
 Blog: yejin-k.github.io
